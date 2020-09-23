@@ -12,7 +12,6 @@ public class TaskOne {
             System.out.println(minus(50));
             System.out.println((mid(2,10)));
             System.out.println(coord(5,5,10,10));
-
         }
         public static int res(){
             int a = 1;
