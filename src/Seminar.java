@@ -31,5 +31,9 @@ public class Seminar {
         return 3.0;
     }
 
+    public static HashMap<Character, Integer> frc(){
+        HashMap<Character, Integer> mp = new HashMap<>();  
+    }
+
 
 }

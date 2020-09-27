@@ -19,23 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfac409a-6b2f-4878-9b72-cebba97dc7aa" name="Default Changelist" comment="" />
+    <list default="true" id="0658db47-1788-492b-9fc2-13f19ae2df88" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1hPAiSGtyWrAMlIyyIutLr6qHzr" />
+  <component name="ProjectId" id="1hwhpTds5kGdVHViW0GmQxTfBsw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,16 +36,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cfac409a-6b2f-4878-9b72-cebba97dc7aa" name="Default Changelist" comment="" />
-      <created>1599902487072</created>
+      <changelist id="0658db47-1788-492b-9fc2-13f19ae2df88" name="Default Changelist" comment="" />
+      <created>1600928245002</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599902487072</updated>
+      <updated>1600928245002</updated>
     </task>
     <servers />
   </component>
@@ -67,19 +60,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600321990064">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600321990064" />
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600321981753">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600321981753" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600928242277">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600928242277" />
   </component>
 </project>
