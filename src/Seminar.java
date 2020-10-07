@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
+import java.util.Map;
+import java.util.HashMap;
+import java.util.Set;
 
 public class Seminar {
 
@@ -31,8 +34,19 @@ public class Seminar {
         return 3.0;
     }
 
-    public static HashMap<Character, Integer> frc(){
-        HashMap<Character, Integer> mp = new HashMap<>();  
+    public static <K, V> Map<V, HashSet<K>> frc(Map<? extends K, ? extends V> map){
+        HashMap<V, HashSet<K>> mp = new HashMap<>();
+        Set<K> keys = (Set<K>) map.keySet();
+        for(K key: keys){
+            V value = map.get(key);
+            mp.compute(value, (v, k) ->{
+                if(k == null)
+                    k = new HashSet<>();
+                k.add(key);
+                return k;
+            });
+        }
+        return mp;
     }
 
 
