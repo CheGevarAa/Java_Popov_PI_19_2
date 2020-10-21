@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5680dce4-0138-4e5a-8ed0-a60e4b31fc82" name="Default Changelist" comment="" />
+    <list default="true" id="cb514df5-489f-4115-89ae-a048f5124f74" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1iXsiuZvnkH3BNQL1WPCovDCj9U" />
+  <component name="ProjectId" id="1j90kHK4f0lnCwSRSMYMlU6rFKr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,19 +44,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5680dce4-0138-4e5a-8ed0-a60e4b31fc82" name="Default Changelist" comment="" />
-      <created>1602065403547</created>
+      <changelist id="cb514df5-489f-4115-89ae-a048f5124f74" name="Default Changelist" comment="" />
+      <created>1603201144878</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602065403547</updated>
+      <updated>1603201144878</updated>
     </task>
     <servers />
   </component>
@@ -71,19 +67,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="0" y="0" key="#Project_Structure" timestamp="1602065418138">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="0" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602065418138" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602570034640">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602570034640" />
-    <state x="209" y="33" key="new project wizard" timestamp="1602570184559">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602570184559" />
   </component>
 </project>
